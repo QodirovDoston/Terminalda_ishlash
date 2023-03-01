@@ -1,3 +1,5 @@
+## Terminalda ishlashni boshlang'ich buyruqlar
+ ```js
 1. faqat papkalar ro'yxati chiqsin.                                              ls -d*
 2. ro'yxatda yashiringan fayl va papkalar ham chiqsin.                           ls -a 
 3. hozir qaysi user ekanligini bilish.                                           id -gn 
@@ -14,4 +16,4 @@
 7. oldin berilgan kamandalarni korish =>                                         history
 8. qaysu userda turgani korasatadi=>                                             users
 9. idsi qaysi ekanini ko'rasatadi =>                                             id
-10.
+```

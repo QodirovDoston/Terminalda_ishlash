@@ -10,4 +10,8 @@
 3. papka nomini o'zgartirish                                                     mv  doston.papka   rustam.paka?
 4. papka yaratish ?                                                              mkdir d.oston
 5. papkani o'chirish ?                                                           rmdir d.oston
-6. txt filni o'chirish usuli?                                                    rm -rf  txt nomi
+6. txt filni o'chirish usuli?  =>                                                rm -rf  txt nomi
+7. oldin berilgan kamandalarni korish =>                                         history
+8. qaysu userda turgani korasatadi=>                                             users
+9. idsi qaysi ekanini ko'rasatadi =>                                             id
+10.
